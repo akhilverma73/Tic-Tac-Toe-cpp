@@ -1,2 +1,16 @@
-# Tic-Tac-Toe-cpp
-Console-based Tic Tac Toe game written in C++ with score tracking and replay system.
+# Tic Tac Toe (C++)
+
+A console-based Tic Tac Toe game written in C++.
+
+## Features
+- Two-player gameplay
+- Winner detection
+- Draw detection
+- Score tracking
+- Replay system
+
+## Concepts Used
+- Arrays
+- Functions
+- Loops
+- Conditional statements
