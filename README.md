@@ -16,5 +16,5 @@ A console-based Tic Tac Toe game written in C++.
 - Conditional statements
 ## Example Output
 
-![Game Output](Tic tak toe output.png)
+![Game Output](output.png)
 
