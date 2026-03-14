@@ -14,3 +14,7 @@ A console-based Tic Tac Toe game written in C++.
 - Functions
 - Loops
 - Conditional statements
+## Example Output
+
+![Game Output]
+
